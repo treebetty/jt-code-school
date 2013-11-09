@@ -1,0 +1,3 @@
+[submodule "android_frameworks_base_core_jni_android_graphics"]
+	path = android_frameworks_base_core_jni_android_graphics
+	url = https://bitbucket.org/jfdsmabalot/android_frameworks_base_core_jni_android_graphics.git
